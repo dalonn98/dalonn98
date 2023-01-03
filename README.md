@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dalonn98
-- 👀 I’m interested in ... Cloud Computing, DevOps
-- 🌱 I’m currently learning ... Cloud, Linux
+- 👀 I’m interested in ... Cloud Computing, DevOps, MLOps
+- 🌱 I’m currently learning ... Cloud, Linux, AI
 - 💞️ I’m looking to collaborate on ... yet
 - 📫 How to reach me ... dalonn98@gmail.com
 
